@@ -8,10 +8,10 @@
     
  "env": {
     "BOT_NAME": {
-    "description": "Name of your bot"
+    "description": "Name of your devilofking"
     },
     "OWNER_NAME": {
-    "description": "Name of Bot Owner"
+    "description": "Name of Bot devilofking"
     },
     "BOT_OWNER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")"
@@ -21,7 +21,7 @@
     },
     "SPACK_NAME": {
       "description": "Put Your Sticker Pack Name",
-       "required": false
+       "required": true
       
     }
    },
